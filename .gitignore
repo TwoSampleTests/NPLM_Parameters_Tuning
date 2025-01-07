@@ -1,17 +1,24 @@
 # Custom
+# Custom
 *.pyc
 *mypy_cache*
-*DS_Store*
-*.json
-*old*
-*/leo*
-*checkpoint*
-*GMetrics*
 *__pycache__*
+*.DS_Store
+*.json
+*.h5
+*.hdf5
+*/leo*
+*old*
+data
+GMetrics
+*parallel*
+*fail_skip*
 .owncloudsync.log
 .sync_journal.db
 .sync_journal.db-wal
 .sync_journal.db-shm
 .sync_journal.db-shm2
-*notebook_launcher*
+.owncloudsync.log.1
+.owncloudsync.log_tmp.1
 results_backup
+
