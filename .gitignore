@@ -1,5 +1,4 @@
 # Custom
-# Custom
 *.pyc
 *mypy_cache*
 *__pycache__*
@@ -7,6 +6,8 @@
 *.json
 *.h5
 *.hdf5
+*g.hdf5
+*g150.hdf5
 */leo*
 *old*
 data
@@ -21,4 +22,3 @@ GMetrics
 .owncloudsync.log.1
 .owncloudsync.log_tmp.1
 results_backup
-
